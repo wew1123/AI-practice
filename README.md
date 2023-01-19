@@ -3,4 +3,4 @@
 
 
 ## 一些项目实践
-* [AI合成大西瓜](https://github.com/zhangcy19/ai_final_task)
+* [AI合成大西瓜]()
