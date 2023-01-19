@@ -3,4 +3,4 @@
 
 
 ## 一些项目实践
-* [AI合成大西瓜]()
+* [AI合成大西瓜](https://github.com/wew1123/AI-Watermelon)
